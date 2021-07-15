@@ -1,3 +1,3 @@
-GoGoogle Decryptor is designed to decrypt files encrypted by GoGoogle Ransom.\
+Trend Micro Ransomware Decryptor is designed to decrypt files encrypted by Globe/Purge Ransom.\
 Here is the link to Decryptor:\
-https://www.bugsfighter.com/remove-gogoogle-ransomware-and-decrypt-google-files/
+https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor
