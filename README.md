@@ -154,5 +154,5 @@ A list of ransomware:
 - Zorab Ransom
 - djvu Ransom
 
-# Disclaimer
+### Disclaimer
 All decryptors are from online sources, and we are not responsible for any damage to your devices. 
