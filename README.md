@@ -153,3 +153,6 @@ A list of ransomware:
 - Ziggy Ransom
 - Zorab Ransom
 - djvu Ransom
+
+# Disclaimer
+All decryptors are from online sources, and we are not responsible for any damage to your devices. 
