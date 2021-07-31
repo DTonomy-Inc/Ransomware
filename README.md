@@ -1,5 +1,9 @@
 # Ransomware
-Resources for Defense Ransomware 
+A collection of resources to defense ransomware
+- IOC
+- Decryptor
+- Scripts
+- etc. 
 
 A list of ransomware:
 
