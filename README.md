@@ -1,9 +1,14 @@
 # Ransomware
 A collection of resources to defense ransomware
-- IOC
 - Decryptor
+- IOC
 - Scripts
 - etc. 
+
+Relevant blogs:
+- [Top 5 Free Tools To Defend Against Ransomware Attack](https://www.dtonomy.com/defend-against-ransomware-attack/)
+- [Leveraging AI To Reduce Risk Of Ransomware](https://www.dtonomy.com/reduce-risk-of-ransomware/)
+- [Another Solarwinds Attack? – REvil Ransomware Hits Kaseya VSA Users](https://www.dtonomy.com/kaseya/) 
 
 A list of ransomware:
 
@@ -159,4 +164,4 @@ A list of ransomware:
 - djvu Ransom
 
 ### Disclaimer
-All decryptors are from online sources, and we are not responsible for any damage to your devices. 
+All the information are collected online. We are not responsible for any damage to your devices. 
